@@ -1,5 +1,5 @@
 ### Custom Build with following flags
-    $ node build.js modules=serialization,interaction,gestures,freedrawing,text
+    $ node build.js modules=serialization,interaction,gestures,freedrawing,text,animation
 
 ### Fabric
 
